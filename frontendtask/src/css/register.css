@@ -1,0 +1,46 @@
+.create{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.reg{
+    font-size: 18px;
+    margin: 20px;
+    border: 2px solid rgb(245, 223, 194);
+    display: flex;
+    font-weight: 500;
+    height: 300px;
+    width: 50%;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(250, 248, 244);
+    border-radius: 20px;
+    box-shadow:5px 5px 5px  rgb(161, 161, 160);
+}
+.check{
+
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.login{
+    font-size: 18px;
+    margin: 20px;
+    border: 2px solid rgb(245, 223, 194);
+    display: flex;
+    font-weight: 500;
+    height: 300px;
+    width: 50%;
+    
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(250, 248, 244);
+    border-radius: 20px;
+    box-shadow:5px 5px 5px  rgb(161, 161, 160);
+}
